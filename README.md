@@ -1,5 +1,4 @@
 # 🏥 Healthcare UHID Secure Dashboard  
-### Internship Project – Aster DM Healthcare
 
 ---
 
