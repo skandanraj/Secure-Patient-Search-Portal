@@ -219,7 +219,7 @@ Users can open this link in their browser to access the dashboard.
 
 ### 📊 Results & Excel Export
 
-![Results Page](screenshots/results.png)
+![Results Page](screenshots/result.png)
 
 ---
 
