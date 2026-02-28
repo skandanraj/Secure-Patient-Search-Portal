@@ -207,19 +207,19 @@ Users can open this link in their browser to access the dashboard.
 
 ### 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](Login.png)
 
 ---
 
 ### 🔎 Search Interface
 
-![Search Page](screenshots/search.png)
+![Search Page](Search.png)
 
 ---
 
 ### 📊 Results & Excel Export
 
-![Results Page](screenshots/result.png)
+![Results Page](Result.png)
 
 ---
 
