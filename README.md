@@ -254,6 +254,6 @@ No confidential healthcare data is included.
 ## 👨‍💻 Author
 
 **Skanda N Raj**  
-Software Engineer | Data & Analytics Enthusiast  
+Data & Analytics Enthusiast  
 
 ---
